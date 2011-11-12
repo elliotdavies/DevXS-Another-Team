@@ -5,7 +5,7 @@ DONE http://www.guardian.co.uk/news/datablog/2011/oct/04/national-lottery-charit
 http://www.guardian.co.uk/news/datablog/2011/oct/06/top-200-universities-world-times-higher-education
 DONE http://www.guardian.co.uk/news/datablog/2010/nov/17/unemployment-and-employment-statistics-economics
 http://www.guardian.co.uk/news/datablog/2011/oct/18/danny-dorling-education-data
-http://www.guardian.co.uk/news/datablog/interactive/2011/oct/20/life-expectancy-map-local-authority-uk
+DONE http://www.guardian.co.uk/news/datablog/interactive/2011/oct/20/life-expectancy-map-local-authority-uk
 http://www.guardian.co.uk/education/datablog/2011/oct/24/tuition-fees-education
 http://www.guardian.co.uk/news/datablog/2011/oct/26/government-spending-department-2010-11
 http://www.guardian.co.uk/news/datablog/2011/sep/29/adoption-statistics-england
