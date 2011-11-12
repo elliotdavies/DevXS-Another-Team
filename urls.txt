@@ -16,7 +16,7 @@ DONE http://www.guardian.co.uk/news/datablog/2011/mar/05/data-store-pharmaceutic
 DONE http://www.guardian.co.uk/news/datablog/2011/mar/11/postgraduate-guide-2011-masters
 http://www.guardian.co.uk/news/datablog/2011/mar/17/university-funding-cuts-institution-hefce-universities
 DONE http://www.guardian.co.uk/news/datablog/2011/mar/25/gun-ownership-firearms-certificates
-http://www.guardian.co.uk/news/datablog/2011/mar/31/deprivation-map-indices-multiple
+DONE http://www.guardian.co.uk/news/datablog/2011/mar/31/deprivation-map-indices-multiple
 http://www.guardian.co.uk/news/datablog/2011/apr/01/tax-benefit-changes-april
 http://www.guardian.co.uk/news/datablog/2011/jul/18/data-store-unemployment
 http://www.guardian.co.uk/news/datablog/2011/may/04/top-100-world-university-rankings-medicine-biology-psychology
