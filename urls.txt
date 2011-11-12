@@ -8,7 +8,7 @@ http://www.guardian.co.uk/news/datablog/2011/oct/18/danny-dorling-education-data
 DONE http://www.guardian.co.uk/news/datablog/interactive/2011/oct/20/life-expectancy-map-local-authority-uk
 http://www.guardian.co.uk/education/datablog/2011/oct/24/tuition-fees-education
 http://www.guardian.co.uk/news/datablog/2011/oct/26/government-spending-department-2010-11
-http://www.guardian.co.uk/news/datablog/2011/sep/29/adoption-statistics-england
+DONE http://www.guardian.co.uk/news/datablog/2011/sep/29/adoption-statistics-england
 http://www.guardian.co.uk/news/datablog/2011/nov/01/birth-month-affects-results-well-being
 http://www.guardian.co.uk/news/datablog/2011/nov/06/social-housing-renting
 http://www.guardian.co.uk/news/datablog/2011/feb/14/youth-unemployment-statistics
