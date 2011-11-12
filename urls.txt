@@ -3,7 +3,6 @@ http://www.guardian.co.uk/news/datablog/2011/nov/11/student-finance-employeebene
 DONE http://www.guardian.co.uk/news/datablog/2011/oct/03/council-tax-band-d-local-authority
 DONE http://www.guardian.co.uk/news/datablog/2011/oct/04/national-lottery-charitable-causes
 http://www.guardian.co.uk/news/datablog/2011/oct/06/top-200-universities-world-times-higher-education
-http://www.guardian.co.uk/news/datablog/interactive/2011/oct/10/housing-statistics-database
 http://www.guardian.co.uk/news/datablog/2010/nov/17/unemployment-and-employment-statistics-economics
 http://www.guardian.co.uk/news/datablog/2011/oct/18/danny-dorling-education-data
 http://www.guardian.co.uk/news/datablog/interactive/2011/oct/20/life-expectancy-map-local-authority-uk
