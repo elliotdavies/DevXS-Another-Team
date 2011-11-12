@@ -12,7 +12,7 @@ DONE http://www.guardian.co.uk/news/datablog/2011/sep/29/adoption-statistics-eng
 DONE http://www.guardian.co.uk/news/datablog/2011/nov/06/social-housing-renting
 http://www.guardian.co.uk/news/datablog/2011/feb/16/alcohol-minimum-price-list
 DONE http://www.guardian.co.uk/news/datablog/2011/feb/24/neets-statistics
-http://www.guardian.co.uk/news/datablog/2011/mar/05/data-store-pharmaceuticals-industry
+DONE http://www.guardian.co.uk/news/datablog/2011/mar/05/data-store-pharmaceuticals-industry
 DONE http://www.guardian.co.uk/news/datablog/2011/mar/11/postgraduate-guide-2011-masters
 http://www.guardian.co.uk/news/datablog/2011/mar/17/university-funding-cuts-institution-hefce-universities
 http://www.guardian.co.uk/news/datablog/2011/mar/25/gun-ownership-firearms-certificates
