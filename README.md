@@ -1,3 +1,6 @@
+Another Team & Their UUG
+========================
+
 *Another Team* is a group consisting of Sam Elliott, Elliot Davies, and Andrei Mustata. At the DevXS conference, they came together to meet the Guardian's challenge to widen social inclusion in further education. The resulting product is *Another Team's Unofficial University Guide (UUG)*.
 
 After careful consideration, the team decided an innovative approach would be to mix regular league table data with information that reflected what it would actually be like to live near a university. This meant that prospective students would not only be able to see how well the university performed academically, but also how well the surrounding area performed socially. To make the information as widely available as possible, a simple website format was chosen rather than technology such as a smartphone application, which might not be accessible by people from poorer backgrounds.
