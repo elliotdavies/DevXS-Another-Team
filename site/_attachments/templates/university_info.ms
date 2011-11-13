@@ -47,14 +47,16 @@
 {{#health}}
 <h3>Health</h3>
 <dl>
+  <dt>Emergency Hospital Admissions from Self Harm</dt>
+  <dd>{{emergency_hospital_admissions_self_harm}}</dd>
   <dt>Violent Offences (per 1000 people)</dt>
   <dd>{{violent_offences_per_1000_population}}</dd>
   <dt>Teenage Pregnancies (per 1000 girls 15-17)</dt>
   <dd>{{teenage_pregnancies_per_1000_girls_15_17}}</dd>
   <dt>Problem Drug Users (per 1000 people)</dt>
   <dd>{{problem_drug_users}}</dd>
-  <dt>Hospital Admissions from Alcohol Harm (of which Emergency)</dt>
-  <dd>{{hospital_admissions_alcohol_harm}} ({{emergency_hospital_admissions_self_harm}})</dd>
+  <dt>Hospital Admissions from Alcohol Harm</dt>
+  <dd>{{hospital_admissions_alcohol_harm}}</dd>
   <dt>Adult Smoking %</dt>
   <dd>{{proportion_adults_smoking}}%</dd>
   <dt>Obesity Prevalence %</dt>
