@@ -5,7 +5,7 @@
     <tr>
       <th></th>
       <th>Number of Students</th>
-      <th>Percentage of All Stuents</th>
+      <th>Percentage of All Students</th>
       <th>Ranked Subject Area</th>
     </tr>
   </thead>

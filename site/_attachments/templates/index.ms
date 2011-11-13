@@ -79,6 +79,8 @@
         <dl>
           <dt>Sam's Email</dt>
           <dd><a href="mailto:sam@lenary.co.uk">sam@lenary.co.uk</a></dd>
+          <dt>Elliot's Email</dt>
+          <dd><a href="mailto:elliot.a.davies@gmail.com">elliot.a.davies@gmail.com</a></dd>
 
         </dl>
 

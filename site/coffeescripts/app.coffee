@@ -37,22 +37,23 @@ class UUGRouter extends Backbone.Router
   universities: () =>
     @setActive("universities")
     UUG.render "#app", "universities", {}, () ->
-      $.couch.db("universities").view "universities/by_id", success: (data) ->
+      $.couch.db("universities").view "unis/by_id", success: (data) ->
         UUG.render "#universities_list", "universities_li", data
-      $.couch.db("universities").view "universities/league", startkey: 0, endkey: 100, success: (data) ->
+      $.couch.db("universities").view "unis/league", startkey: 0, endkey: 100, success: (data) ->
         console.log(data)
         UUG.render "#universities_league", "universities_league", data
 
   university: (university) =>
     @setActive("universities")
     UUG.render "#app", "universities", {}, () ->
-      $.couch.db("universities").view "universities/by_id", success: (data) ->
+      $.couch.db("universities").view "unis/by_id", success: (data) ->
         UUG.render "#universities_list", "universities_li", data
       $.couch.db("universities").openDoc university, success: (data) =>
         UUG.render "#university_info", "university_info", data
 
   other: (info) =>
     @setActive("other")
+    UUG.render "#app", "index", {}
 
   setActive: (section) =>
     $(".topbar a[href!=##{section}]").parent("li").removeClass("active")
