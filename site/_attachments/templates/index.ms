@@ -11,23 +11,15 @@
         <h2>Universities</h2>
 
         <p>
-          Fun Times!
-        </p>
-
-        <p>
-          <a class="btn primary" href="#universities">Universities &raquo;</a>
+          University Overviews with other Fun Statistics. More Stats Coming Soon!
         </p>
       </div>
 
+
       <div class="span-one-third">
         <h2>Subjects</h2>
-
         <p>
-          Fun Times!
-        </p>
-
-        <p>
-          <a class="btn primary" href="#subjects">Subjects &raquo;</a>
+          Some basic info on Subject Areas.
         </p>
       </div>
 
@@ -35,11 +27,28 @@
         <h2>Other Information</h2>
 
         <p>
-          Fun Times!
+          Coming Soon!<br>&nbsp;
         </p>
+      </div>
 
+    </div>
+
+    <div class="row">
+      <div class="span-one-third">
         <p>
-          <a class="btn" href="#other">Other Information &raquo;</a>
+          <a class="btn primary" href="#universities">Universities &raquo;</a>
+        </p>
+      </div>
+
+      <div class="span-one-third">
+        <p>
+          <a class="btn primary" href="#subjects">Subjects &raquo;</a>
+        </p>
+      </div>
+
+      <div class="span-one-third">
+        <p>
+          <a class="btn disabled" href="#other">Other Information &raquo;</a>
         </p>
       </div>
 

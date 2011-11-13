@@ -2,7 +2,7 @@
   <h2>University: {{_id}}</h2>
 </div>
 
-<img style="float:right;" src="http://maps.googleapis.com/maps/api/staticmap?center={{lat}},{{long}}&size=200x200&sensor=false&zoomlevel=10">
+<img src="http://maps.googleapis.com/maps/api/staticmap?size=540x200&sensor=false&zoom=8&&markers=color:blue%7C{{lat}},{{long}}">
 
 {{#guardian}}
   <h3>Guardian Data</h3>
