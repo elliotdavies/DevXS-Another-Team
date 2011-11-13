@@ -56,7 +56,11 @@
         <h2>What Is this?</h2>
 
         <p>
+          We have added a lot more information than normal university guides have due to location scanning surrounding data.
+        </p>
 
+        <p>
+          There's lots more data on the way too!
         </p>
       </div>
 
@@ -81,7 +85,8 @@
           <dd><a href="mailto:sam@lenary.co.uk">sam@lenary.co.uk</a></dd>
           <dt>Elliot's Email</dt>
           <dd><a href="mailto:elliot.a.davies@gmail.com">elliot.a.davies@gmail.com</a></dd>
-
+          <dt>Andrei's Email</dt>
+          <dd><a href="mailto:"></a>
         </dl>
 
       </div>
