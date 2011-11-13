@@ -86,7 +86,7 @@
           <dt>Elliot's Email</dt>
           <dd><a href="mailto:elliot.a.davies@gmail.com">elliot.a.davies@gmail.com</a></dd>
           <dt>Andrei's Email</dt>
-          <dd><a href="mailto:"></a>
+          <dd><a href="mailto:andrei.mustata@gmail.com">andrei.mustata@gmail.com</a>
         </dl>
 
       </div>
