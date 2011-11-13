@@ -44,6 +44,28 @@
 
 {{/guardian}}
 
+{{#health}}
+<h3>Health</h3>
+<dl>
+  <dt>Violent Offences (per 1000 people)</dt>
+  <dd>{{violent_offences_per_1000_population}}</dd>
+  <dt>Teenage Pregnancies (per 1000 girls 15-17)</dt>
+  <dd>{{teenage_pregnancies_per_1000_girls_15_17}}</dd>
+  <dt>Problem Drug Users (per 1000 people)</dt>
+  <dd>{{problem_drug_users}}</dd>
+  <dt>Hospital Admissions from Alcohol Harm (of which Emergency)</dt>
+  <dd>{{hospital_admissions_alcohol_harm}} ({{emergency_hospital_admissions_self_harm}})</dd>
+  <dt>Adult Smoking %</dt>
+  <dd>{{proportion_adults_smoking}}%</dd>
+  <dt>Obesity Prevalence %</dt>
+  <dd>{{prevalence_obese_adults}}</dd>
+  <dt>% in Most Deprived Quintile</dt>
+  <dd>{{percent_population_in_most_deprived_national_quintile}}</dd>
+  <dt>% High Risk Drinkers</dt>
+  <dd>{{percent_population_high_risk_drinkers}}</dd>
+</dl>
+{{/health}}
+
 
 {{#council_tax}}
   <h3>Council tax</h3>
