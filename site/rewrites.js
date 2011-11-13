@@ -1,0 +1,30 @@
+[
+  {
+    "from":"",
+    "to":"index.html"
+  },
+  {
+    "from":"/universities/*",
+    "to":"../../*"
+  },
+  {
+    "from":"/subjects/*",
+    "to":"../../../subjects/*"
+  },
+  {
+    "from":"/universities_subjects/*",
+    "to":"../../../universities_subjects/*"
+  },
+  {
+    "from":"/stylesheets/*",
+    "to":"stylesheets/*"
+  },
+  {
+    "from":"/javascripts/*",
+    "to":"javascripts/*"
+  },
+  {
+    "from":"/templates/*",
+    "to":"templates/*"
+  }
+]
