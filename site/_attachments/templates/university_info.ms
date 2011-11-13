@@ -105,7 +105,28 @@
 <dl>
   <dt>Income Scale</dt>
   <dd>{{income_scale}}</dd>
-
+  <dt>Income Scale Rank</dt>
+  <dd>{{income_scale_rank}}</dd>
+  <dt>Extent</dt>
+  <dd>{{extent}}</dd>
+  <dt>Extent Rank</dt>
+  <dd>{{extent_rank}}</dd>
+  <dt>Local Concentration</dt>
+  <dd>{{local_concentration}}</dd>
+  <dt>Local Concentration Rank</dt>
+  <dd>{{Local Concentration Rank}}</dd>
+  <dt>Employment Scale</dt>
+  <dd>{{employment_scale}}</dd>
+  <dt>Employment Scale Rank</dt>
+  <dd>{{employment_scale_rank}}</dd>
+  <dt>Average Score</dt>
+  <dd>{{average_score}}</dd>
+  <dt>Average Score Rank</dt>
+  <dd>{{average_score_rank}}</dd>
+  <dt>Average Rank</dt>
+  <dd>{{average_rank}}</dd>
+  <dt>Average Rank Rank</dt>
+  <dd>{{average_rank_rank}}</dd>
 </dl>
 
 {{/deprivation}}
